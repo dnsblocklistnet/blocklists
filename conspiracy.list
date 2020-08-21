@@ -1,9 +1,54 @@
-(^|\.)disabledveterans\.org$
+######################
+##
+## Medical
+##
+######################
+0.0.0.0 disabledveterans.org
 
-(^|\.)physiciansforinformedconsent\.org$
+0.0.0.0 physiciansforinformedconsent.org
 
-(^|\.)icandecide\.org$
+0.0.0.0 icandecide.org
 
-(^|\.)thehighwire\.com$
+0.0.0.0 thehighwire.com
 
-(^|\.)naturalnews\.com$
+0.0.0.0 naturalnews.com
+
+0.0.0.0 mmshealthy4life.com
+0.0.0.0 mms-supplement.com
+0.0.0.0 mmstestimonials.co
+0.0.0.0 miraclemineral.co.nz
+0.0.0.0 mms-healthyliving.com
+
+######################
+##
+## QAnon
+##
+######################
+0.0.0.0 wearethene.ws
+0.0.0.0 qalerts.app
+0.0.0.0 qanon.pub
+0.0.0.0 qresear.ch
+0.0.0.0 qbrief.com
+0.0.0.0 qanon.news
+
+######################
+##
+## Misc
+##
+######################
+0.0.0.0 thegatewaypundit.com
+0.0.0.0 qmap.pub
+0.0.0.0 8kun.top
+0.0.0.0 thebloodyaussiebattler.com
+0.0.0.0 kingof.uk
+0.0.0.0 australianpatriotradio.com
+0.0.0.0 mywillaustralia.com
+0.0.0.0 cirnow.com.au
+0.0.0.0 advance-australia.com.au
+0.0.0.0 jimhumble.co
+0.0.0.0 jimhumblebooks.co
+0.0.0.0 jimhumble.org
+0.0.0.0 truehealthfacts.com
+0.0.0.0 mmsinfo.org
+0.0.0.0 mkilani.com
+0.0.0.0 g2church239.org
