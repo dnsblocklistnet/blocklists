@@ -15,4 +15,4 @@ A lot of misinformation, fake news, conspiracy theories, and scams are spread vi
 There are already many extensive blocklists for blocking fake news. You should be able to find them quickly with a simple search. These lists are intended to be more focused, and to fit a specific niche.
 
 # How can I contribute?
-Open a new issue here on Github! Please provide a list of domains you think should be included on the blocklists, and why.
+Open a new issue here on Github! Please provide a list of domains you think should be included on the blocklists, and why. If you've got the know-how, you could also submit a pull request.

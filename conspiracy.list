@@ -10,6 +10,8 @@
 ## Q: Can I contribute to this list?
 ## A: Add an issue on the project's Github. Go to: https://github.com/dnsblocklistnet/blocklists/issues/new
 ##
+## Inclusion on this list is a matter of opinion, and not a statement of fact.
+##
 ## Authors: So far, just some dudes.
 ## Copyright: Unlicense. See bottom, or https://unlicense.org/
 ##
@@ -37,10 +39,6 @@
 ##
 ######################
 0.0.0.0 disabledveterans.org
-0.0.0.0 physiciansforinformedconsent.org
-0.0.0.0 icandecide.org
-
-0.0.0.0 thehighwire.com
 0.0.0.0 naturalnews.com
 0.0.0.0 mmshealthy4life.com
 0.0.0.0 mmshealthyforlife.com
@@ -58,6 +56,9 @@
 0.0.0.0 jahealthadvocate.com
 0.0.0.0 curezone.org
 0.0.0.0 faim.org
+0.0.0.0 thegoodnewsdr.com
+0.0.0.0 DrDeBrincat.com
+0.0.0.0 icrichild.org
 #snake oil
 0.0.0.0 elenafridmd.com
 0.0.0.0 coseva.com
@@ -76,6 +77,11 @@
 0.0.0.0 imoparty.com
 0.0.0.0 autismone.org
 0.0.0.0 old.autismone.org
+0.0.0.0 physiciansforinformedconsent.org
+0.0.0.0 icandecide.org
+
+0.0.0.0 thehighwire.com
+0.0.0.0 kellybroganmd.com
 # Fluoride
 0.0.0.0 fluoridealert.org
 0.0.0.0 fluoridefreeaustin.com
@@ -133,6 +139,8 @@
 0.0.0.0 kerririvera.com
 0.0.0.0 waterpureworld.com
 0.0.0.0 totalrestitution.com
+0.0.0.0 conspiracyplanet.com
+0.0.0.0 counterpunch.org
 
 ######################
 ## This is free and unencumbered software released into the public domain.
