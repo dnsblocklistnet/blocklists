@@ -10,10 +10,26 @@
 ## Q: Can I contribute to this list?
 ## A: Add an issue on the project's Github. Go to: https://github.com/dnsblocklistnet/blocklists/issues/new
 ##
-## Authors: So far, just two dudes.
+## Authors: So far, just some dudes.
 ## Copyright: Unlicense. See bottom, or https://unlicense.org/
 ##
 ######################
+
+######################
+##
+## Flat Earth
+##
+######################
+0.0.0.0 theflatearthsociety.org
+0.0.0.0 tfes.org
+0.0.0.0 wiki.tfes.org
+0.0.0.0 faq.tfes.org
+0.0.0.0 flatearthfc.com
+0.0.0.0 ifers.123.st
+0.0.0.0 flatearth.ws
+0.0.0.0 flatearthbusted.blogspot.com
+0.0.0.0 roundearthsense.blogspot.com
+0.0.0.0 fecore.org
 
 ######################
 ##
@@ -23,10 +39,11 @@
 0.0.0.0 disabledveterans.org
 0.0.0.0 physiciansforinformedconsent.org
 0.0.0.0 icandecide.org
+
 0.0.0.0 thehighwire.com
 0.0.0.0 naturalnews.com
 0.0.0.0 mmshealthy4life.com
-0.0.0.0 www.mmshealthyforlife.com
+0.0.0.0 mmshealthyforlife.com
 0.0.0.0 mms-supplement.com
 0.0.0.0 mmstestimonials.co
 0.0.0.0 miraclemineral.co.nz
@@ -34,12 +51,23 @@
 0.0.0.0 mmsinfo.org
 0.0.0.0 mmsforum.io
 0.0.0.0 andreaskalcker.com
-0.0.0.0 www.earthclinic.com
+0.0.0.0 earthclinic.com
 0.0.0.0 alivenhealthy.com
-0.0.0.0 www.healingcancernaturally.com
-0.0.0.0 www.jahealthadvocate.com
-0.0.0.0 www.curezone.org
-0.0.0.0 www.faim.org
+0.0.0.0 healingcancernaturally.com
+0.0.0.0 jahealthadvocate.com
+0.0.0.0 curezone.org
+0.0.0.0 faim.org
+0.0.0.0 childrenshealthdefense.org #antivax
+0.0.0.0 avn.org.au
+0.0.0.0 imoparty.com
+0.0.0.0 autismone.org
+0.0.0.0 old.autismone.org
+# Fluoride
+0.0.0.0 fluoridealert.org
+0.0.0.0 fluoridefreeaustin.com
+0.0.0.0 fluoridefreeaustin.com
+0.0.0.0 fluoridedangers.blogspot.com
+0.0.0.0 fluorideexposed.org
 
 ######################
 ##
@@ -62,10 +90,11 @@
 ######################
 0.0.0.0 parler.com
 0.0.0.0 gab.com
+0.0.0.0 metabunk.org
 
 ######################
 ##
-## Misc
+## Uncategorized
 ##
 ######################
 0.0.0.0 thegatewaypundit.com
@@ -87,9 +116,9 @@
 0.0.0.0 rejuvaflex.org
 0.0.0.0 itsrainmakingtime.com
 0.0.0.0 lifeissoamazing.com
-0.0.0.0 www.kerririvera.com
+0.0.0.0 kerririvera.com
 0.0.0.0 waterpureworld.com
-0.0.0.0 www.totalrestitution.com
+0.0.0.0 totalrestitution.com
 
 ######################
 ## This is free and unencumbered software released into the public domain.
