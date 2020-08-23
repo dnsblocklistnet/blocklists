@@ -3,13 +3,25 @@
 ## About and FAQ
 ## 
 ## This list is intended to serve as a DNS blocklist for multi-level marketing websites. 
-## Much of this list was sourced from https://mlmtruth.org/master-list/
 ##
 ## Q: Can I contribute to this list?
 ## A: Add an issue on the project's Github. Go to: https://github.com/dnsblocklistnet/blocklists/issues/new
 ##
 ## Authors: So far, just some dudes.
 ## Copyright: Unlicense. See bottom, or https://unlicense.org/
+##
+######################
+
+######################
+##
+## Sources: 
+## https://onlinemlmcommunity.com/list-of-mlm-companies-in-the-philippines/
+## https://mlmtruth.org/master-list/
+## https://onlinemlmcommunity.com/top-30-most-popular-mlm-companies-in-asia/
+## https://onlinemlmcommunity.com/the-top-25-mlm-companies-in-china/
+## https://onlinemlmcommunity.com/top-50-best-mlm-and-network-marketing-companies-of-all-time/
+## 
+## And users like you!
 ##
 ######################
 
@@ -25,12 +37,71 @@
 0.0.0.0 abitrude.com.au
 0.0.0.0 shopabbyanna.com
 0.0.0.0 herbalife.com
+0.0.0.0 company.herbalife.com.ph
+0.0.0.0 company.herbalife.com
 0.0.0.0 doterra.com
 0.0.0.0 acn.com
 0.0.0.0 acti-labs.com
 0.0.0.0 adornableu.com
 0.0.0.0 advocare.com
 0.0.0.0 affiliateinstitute.com
+0.0.0.0 farmasius.com
+0.0.0.0 usana.com
+0.0.0.0 unopremier.com
+0.0.0.0 uno1-corp.net
+0.0.0.0 technowise360.com
+0.0.0.0 avonshop.ph
+0.0.0.0 amway.com.ph
+0.0.0.0 directsellingnews.com
+0.0.0.0 richmentorship.com
+0.0.0.0 dxn2uasia.com
+0.0.0.0 dxn2u.com
+0.0.0.0 dxn2uafrica.com
+0.0.0.0 dxnusa.com
+0.0.0.0 dxn2u.eu
+0.0.0.0 dxnaus.com.au
+0.0.0.0 cutco.com
+0.0.0.0 kirby.com
+0.0.0.0 foreverliving.com
+0.0.0.0 foreverlivingphilippines.com
+0.0.0.0 allianceinmotion.com
+0.0.0.0 dakki.com.ph
+0.0.0.0 alivemax.com
+0.0.0.0 deidirectsales.com
+0.0.0.0 nuskin.com
+0.0.0.0 globalfusionwellness.com
+0.0.0.0 directshoppinginc.com
+0.0.0.0 bionutriwealth.com
+0.0.0.0 issuu.com
+0.0.0.0 everbilena.com.ph
+0.0.0.0 fern-inc.com
+0.0.0.0 classiqueherbs.com
+0.0.0.0 ganoitouch.com.ph
+0.0.0.0 cf-wellnessphilippines-ilocosregion.weebly.com
+0.0.0.0 gnld.com.ph
+0.0.0.0 successlibrary.weebly.com
+0.0.0.0 supremewealthalliance.net
+0.0.0.0 greenworlddynamic.weebly.com
+0.0.0.0 humanheartnature.com
+0.0.0.0 www.marykay.com.ph
+0.0.0.0 newimage.asia
+0.0.0.0 gprsteamup.weebly.com
+0.0.0.0 gprsnovaliches.weebly.com
+0.0.0.0 www.lifemaxuk.co.uk
+0.0.0.0 www.max.com
+0.0.0.0 www.nikken.com
+0.0.0.0 reliv.com
+0.0.0.0 loadxtreme.ph
+0.0.0.0 winaliteinternational.com
+0.0.0.0 sophieparis.com.ph
+0.0.0.0 sophieparisph.com
+0.0.0.0 sundancecatalogs.blogspot.com
+0.0.0.0 sundancecatalog.com
+0.0.0.0 sundancecebu.blogspot.com
+0.0.0.0 pinoy-entrepreneur.com
+0.0.0.0 unicity.com
+0.0.0.0 onlinemlmcommunity.com
+
 
 ######################
 ## This is free and unencumbered software released into the public domain.
