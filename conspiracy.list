@@ -5,7 +5,7 @@
 ## This list is intended to serve as a DNS blocklist for websites that peddle conspiracy theories. 
 ##
 ## Q: Why don't you add more general "fake news" websites to the list?
-## A: There are already very extensive f
+## A: There are already very extensive fake news blocklists. This list is intended to be more focused.
 ##
 ## Q: Can I contribute to this list?
 ## A: Add an issue on the project's Github. Go to: https://github.com/dnsblocklistnet/blocklists/issues/new
@@ -57,7 +57,20 @@
 0.0.0.0 jahealthadvocate.com
 0.0.0.0 curezone.org
 0.0.0.0 faim.org
-0.0.0.0 childrenshealthdefense.org #antivax
+#snake oil
+0.0.0.0 elenafridmd.com
+0.0.0.0 coseva.com
+0.0.0.0 thewellnessboutiquemn.com
+0.0.0.0 healthhomeandhappiness.com
+0.0.0.0 mnlearningsolutions.com
+0.0.0.0 trs-detox.com
+0.0.0.0 yuccitup.com
+#antivax
+0.0.0.0 vaxxedthemovie.com
+0.0.0.0 vaxxed2.com
+0.0.0.0 aimintegrativemedicine.com
+0.0.0.0 wakefielddocumentary.us12.list-manage1.com
+0.0.0.0 childrenshealthdefense.org
 0.0.0.0 avn.org.au
 0.0.0.0 imoparty.com
 0.0.0.0 autismone.org
